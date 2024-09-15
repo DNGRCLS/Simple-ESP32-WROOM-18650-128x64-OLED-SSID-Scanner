@@ -25,7 +25,7 @@ void setup() {
     for (;;); // Infinite loop
   }
 
-  display.clearDisplay(); // Show initial splash screen
+  display.clearDisplay(); // forgo the initial splash screen
   delay(2000); // Pause for 2 seconds
 
   // Clear the display buffer
